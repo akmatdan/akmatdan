@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Dan Akmat
-- 👀 I’m interested in IOS Developing
-- 🌱 I’m currently learning Swift
+- 👀 I’m an IOS Developer
 - 📫 How to reach me: akmatdan@gmail.com
