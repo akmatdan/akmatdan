@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Dan Akmat
-- 👀 I’m an IOS Developer
+- 👋 Hi, I’m Daniil Akmatov
+- 👀 I’m an Mobile App Developer
 - 📫 How to reach me: akmatdan@gmail.com
