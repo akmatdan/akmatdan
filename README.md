@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Daniil Akmatov
-- 👀 I’m a Mobile App Developer
+- 👀 I’m a Software Engineer 
 - 📫 How to reach me: akmatdan@gmail.com
